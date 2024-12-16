@@ -1,0 +1,14 @@
+C:\Users\sergi\OneDrive\Escritorio\2DAW\M3 - Programació\UF5\UF5_AC1\bin\Debug\net8.0\UF5_AC1.exe
+C:\Users\sergi\OneDrive\Escritorio\2DAW\M3 - Programació\UF5\UF5_AC1\bin\Debug\net8.0\UF5_AC1.deps.json
+C:\Users\sergi\OneDrive\Escritorio\2DAW\M3 - Programació\UF5\UF5_AC1\bin\Debug\net8.0\UF5_AC1.runtimeconfig.json
+C:\Users\sergi\OneDrive\Escritorio\2DAW\M3 - Programació\UF5\UF5_AC1\bin\Debug\net8.0\UF5_AC1.dll
+C:\Users\sergi\OneDrive\Escritorio\2DAW\M3 - Programació\UF5\UF5_AC1\bin\Debug\net8.0\UF5_AC1.pdb
+C:\Users\sergi\OneDrive\Escritorio\2DAW\M3 - Programació\UF5\UF5_AC1\obj\Debug\net8.0\UF5_AC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\OneDrive\Escritorio\2DAW\M3 - Programació\UF5\UF5_AC1\obj\Debug\net8.0\UF5_AC1.AssemblyInfoInputs.cache
+C:\Users\sergi\OneDrive\Escritorio\2DAW\M3 - Programació\UF5\UF5_AC1\obj\Debug\net8.0\UF5_AC1.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Escritorio\2DAW\M3 - Programació\UF5\UF5_AC1\obj\Debug\net8.0\UF5_AC1.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Escritorio\2DAW\M3 - Programació\UF5\UF5_AC1\obj\Debug\net8.0\UF5_AC1.dll
+C:\Users\sergi\OneDrive\Escritorio\2DAW\M3 - Programació\UF5\UF5_AC1\obj\Debug\net8.0\refint\UF5_AC1.dll
+C:\Users\sergi\OneDrive\Escritorio\2DAW\M3 - Programació\UF5\UF5_AC1\obj\Debug\net8.0\UF5_AC1.pdb
+C:\Users\sergi\OneDrive\Escritorio\2DAW\M3 - Programació\UF5\UF5_AC1\obj\Debug\net8.0\UF5_AC1.genruntimeconfig.cache
+C:\Users\sergi\OneDrive\Escritorio\2DAW\M3 - Programació\UF5\UF5_AC1\obj\Debug\net8.0\ref\UF5_AC1.dll
